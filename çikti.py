@@ -1,0 +1,7 @@
+print(len(str(1234567890)))
+print("Merhaba"[0])
+print(123 + 456)
+print(123_456_789)
+print(3.12345)
+print(True)
+print(False)

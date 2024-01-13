@@ -1,0 +1,1 @@
+print(len(input("Merhaba, Adın Nedir?")))
